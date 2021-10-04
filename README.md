@@ -1,5 +1,5 @@
 # chatapp
-mongoDB를 이용한 chat서버
+SpringWebFlux + mongoDB를 이용한 chat서버
 
 기술 스펙
  - Spring FrameWork 5.0
