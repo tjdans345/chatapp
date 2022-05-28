@@ -6,3 +6,5 @@ SpringWebFlux + mongoDB를 이용한 chat서버
  - MongoDB 5.0
  - Spring WebFlux(Reative Web) 이용
  
+socket을 이용한
+chat 기능도 구현해보기
